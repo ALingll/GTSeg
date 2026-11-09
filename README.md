@@ -63,7 +63,7 @@ Users should also follow the licenses and terms of use of the original datasets 
 
 | Component | Contents | Status |
 |---|---|---|
-| DTSet | 354 geometric heightmap textures | **(Download)[https://drive.google.com/file/d/1L4NYpjHaxBbNGCjAfcnmF4GNFnVwu0RM/view?usp=sharing]** |
+| DTSet | 354 geometric heightmap textures | **[Download](https://drive.google.com/file/d/1L4NYpjHaxBbNGCjAfcnmF4GNFnVwu0RM/view?usp=sharing)** |
 | GTSeg | Curvature renderings and instance masks for training and validation | **Coming soon** |
 | 3D Benchmark | 20 synthetic and 10 manually annotated real-world models | **Coming soon** |
 
